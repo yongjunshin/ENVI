@@ -1,0 +1,10 @@
+numpy
+pandas
+torch>=1.8+cu111
+torchaudio>=0.8
+torchvision>=0.8
+matplotlib>=0.8
+scikit-learn
+tqdm
+pytest
+numba
