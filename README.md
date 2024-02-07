@@ -9,7 +9,7 @@ It includes:
 - Title: Virtual Environment Model Generation for CPS Goal Verification using Imitation Learning
 - Authors: Yong-Jun Shin (ETRI, South Korea), Donghwan Shin (University of Sheffield, United Kingdom), Doo-Hwan Bae (KAIST, South Korea)
 - Venue: ACM Transactions on Embedded Computing Systems
-- Access: Open soon. (Accepted)
+- Access: https://dl.acm.org/doi/full/10.1145/3633804
 
 ## Abstract
 Cyber-Physical Systems (CPS) continuously interact with their physical environments through embedded software controllers that observe the environments and determine actions. Field Operational Tests (FOT) are essential to verify to what extent the CPS under analysis can achieve certain CPS goals, such as satisfying the safety and performance requirements, while interacting with the real operational environment. However, performing many FOTs to obtain statistically significant verification results is challenging due to its high cost and risk in practice. Simulation-based verification can be an alternative to address the challenge, but it still requires an accurate virtual environment model that can replace the real environment interacting with the CPS in a closed loop. 
